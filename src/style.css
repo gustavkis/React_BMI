@@ -1,0 +1,42 @@
+.tavolsag {
+  margin-right: 55px;
+}
+
+p {
+  margin-bottom: 10px;
+}
+h4 {
+  color: rgb(53, 51, 45);
+}
+
+input {
+  width: 10%;
+  padding: 10px;
+  margin: 10px;
+  box-sizing: border-box;
+}
+
+button {
+  width: 20%;
+  padding: 5px;
+  margin: 10px;
+  box-sizing: border-box;
+  background-color: rgb(141, 195, 164);
+}
+button:hover {
+  background-color: rgb(178, 236, 186);
+}
+img {
+  margin-bottom: 30px;
+}
+.App {
+  display: flex;
+  height: 800px;
+  width: 800px;
+  justify-content: center;
+  border-radius: 5px;
+  background-color: #94d1b3;
+  padding: 30px;
+  border: 10px solid rgb(2, 21, 22);
+  border-radius: 100px;
+}
