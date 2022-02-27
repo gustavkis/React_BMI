@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/BMI/static/css/main.f03ac0a6.css",
-    "main.js": "/BMI/static/js/main.f436b8ee.js",
-    "static/js/377.c9556df8.chunk.js": "/BMI/static/js/377.c9556df8.chunk.js",
-    "service-worker.js": "/BMI/service-worker.js",
-    "static/media/test.png": "/BMI/static/media/test.356be263c5425e9db4ec.png",
-    "index.html": "/BMI/index.html",
-    "main.f03ac0a6.css.map": "/BMI/static/css/main.f03ac0a6.css.map",
-    "main.f436b8ee.js.map": "/BMI/static/js/main.f436b8ee.js.map",
-    "377.c9556df8.chunk.js.map": "/BMI/static/js/377.c9556df8.chunk.js.map"
+    "main.css": "/React_BMI/static/css/main.f03ac0a6.css",
+    "main.js": "/React_BMI/static/js/main.4bbcc6b8.js",
+    "static/js/377.c9556df8.chunk.js": "/React_BMI/static/js/377.c9556df8.chunk.js",
+    "service-worker.js": "/React_BMI/service-worker.js",
+    "static/media/test.png": "/React_BMI/static/media/test.356be263c5425e9db4ec.png",
+    "index.html": "/React_BMI/index.html",
+    "main.f03ac0a6.css.map": "/React_BMI/static/css/main.f03ac0a6.css.map",
+    "main.4bbcc6b8.js.map": "/React_BMI/static/js/main.4bbcc6b8.js.map",
+    "377.c9556df8.chunk.js.map": "/React_BMI/static/js/377.c9556df8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f03ac0a6.css",
-    "static/js/main.f436b8ee.js"
+    "static/js/main.4bbcc6b8.js"
   ]
 }
